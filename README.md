@@ -46,14 +46,8 @@ A security-focused project that tracks user activity, monitors applications, and
 
 ## 📚 Let's Connect
 
-- LinkedIn: [Shehroz Aziz](https://www.linkedin.com/in/shehroz-aziz)
-- Email: [shehroz@example.com](mailto:shehroz@example.com)
-
----
-
-## 📈 GitHub Stats
-
-![Shehroz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shehroz&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+- LinkedIn: [Shehroz Aziz](https://www.linkedin.com/in/Muhammad-Shehroz-Aziz)
+- Email: [shehroz@example.com](mailto:shehrozaziz786@gmail.com)
 
 ---
 
