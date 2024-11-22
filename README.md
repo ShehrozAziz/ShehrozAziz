@@ -46,8 +46,8 @@ A security-focused project that tracks user activity, monitors applications, and
 
 ## 📚 Let's Connect
 
-- LinkedIn: [Shehroz Aziz](https://www.linkedin.com/in/Muhammad-Shehroz-Aziz)
-- Email: [shehroz@example.com](mailto:shehrozaziz786@gmail.com)
+- LinkedIn: [Shehroz Aziz](www.linkedin.com/in/muhammad-shehroz-aziz-6b4753251)
+- Email: [Shehroz Aziz](mailto:shehrozaziz786@gmail.com)
 
 ---
 
