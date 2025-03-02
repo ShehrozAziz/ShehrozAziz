@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Shehroz Aziz!
 
-Welcome to my GitHub! I'm a passionate developer working on innovative projects in Android, React Native, and IoT systems. I love tackling complex problems and building solutions that make a real difference. 🚀
+Welcome to my GitHub! I'm a passionate developer working on innovative projects in Android, React Native, MERN Stack ,and IoT systems. I love tackling complex problems and building solutions that make a real difference. 🚀
 
 ---
 
