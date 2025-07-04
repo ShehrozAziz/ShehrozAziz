@@ -55,7 +55,7 @@ Beyond code, I’m deeply inspired by **astrophysics and cosmology**, which push
 
 ## 💼 Professional Experience
 
-### 💻 Associate Software Engineer @ CodeSuite _(May 2025 – Present)_
+### 💻 Associate Software Engineer @ CodeSuite _(March 2025 – June 2025)_
 - Built scalable web apps using Django and RESTful APIs.
 - Integrated backend logic to support dynamic frontend features.
 - Worked on full SDLC including testing, versioning, and deployment.
